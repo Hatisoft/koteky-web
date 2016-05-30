@@ -1,0 +1,11 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Koteky"
+theme = "hugo-base-theme"
+[params]
+  description = "crossplatform social network manager"
+  mainIcon = "/img/IconTemplate.png"
+
+[[params.social]]
+    title = "github"
+    url = "https://github.com/Hatisoft/koteky"
